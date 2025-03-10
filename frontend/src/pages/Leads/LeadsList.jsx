@@ -7,11 +7,11 @@ const LeadsList = () => {
     return (
         <div className="flex">
             <SideBar />
-            <div className="w-auto">
+            <div className="w-auto overflow-auto">
                 <div>
                     <HeaderLeads children={<Actions />} />
                 </div>
-                <div className="overflow-auto flex justify-center pt-40">
+                <div className="overflow-auto flex pt-40">
                     <Table />
                 </div>
             </div>

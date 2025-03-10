@@ -3,7 +3,7 @@ import { VscBellDot } from "react-icons/vsc";
 import defaultUserAvatar from "../../assets/images/user-avatar.png"
 
 const HeaderLeads = ({ children }) => {
-    return <div className="flex flex-col h-16 items-end gap-3 w-full fixed top-0 right-0 bg-white">
+    return <div className="flex z-[1] flex-col h-16 items-end gap-3 w-full fixed top-0 right-0 bg-white">
         <div className="flex gap-4 items-center p-2">
             <div className="w-8 h-8 rounded-full flex justify-center items-center bg-white">
                 <IoGrid color="red"/>

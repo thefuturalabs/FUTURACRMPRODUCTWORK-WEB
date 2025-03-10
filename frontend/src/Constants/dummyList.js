@@ -1,7 +1,5 @@
 export const leadsList = [
     {
-      checkbox: '<input type="checkbox" name="" id="" />',
-      moreIcon: '<i className="fa fa-ellipsis-vertical bg-transparent"/>',
       name: 'John Doe',
       phone: '1234567890',
       assignedTo: 'Alice Smith',
@@ -13,8 +11,6 @@ export const leadsList = [
       address: '123 Main St dfsdfsdfsdfsdfsdf'
     },
     {
-      checkbox: '<input type="checkbox" name="" id="" />',
-      moreIcon: '<i className="fa fa-ellipsis-vertical bg-transparent"/>',
       name: 'Jane Doe',
       phone: '9876543210',
       assignedTo: 'Bob Johnson',
@@ -26,8 +22,6 @@ export const leadsList = [
       address: '456 Elm St'
     },
     {
-      checkbox: '<input type="checkbox" name="" id="" />',
-      moreIcon: '<i className="fa fa-ellipsis-vertical bg-transparent"/>',
       name: 'Michael Johnson',
       phone: '5555555555',
       assignedTo: 'Charlie Brown',
@@ -39,8 +33,6 @@ export const leadsList = [
       address: '789 Oak St'
     },
     {
-      checkbox: '<input type="checkbox" name="" id="" />',
-      moreIcon: '<i className="fa fa-ellipsis-vertical bg-transparent"/>',
       name: 'Emily Davis',
       phone: '1234567890',
       assignedTo: 'David Smith',
@@ -52,8 +44,6 @@ export const leadsList = [
       address: '123 Main St'
     },
     {
-      checkbox: '<input type="checkbox" name="" id="" />',
-      moreIcon: '<i className="fa fa-ellipsis-vertical bg-transparent"/>',
       name: 'Olivia Taylor',
       phone: '9876543210',
       assignedTo: 'Eva Johnson',
@@ -65,8 +55,6 @@ export const leadsList = [
       address: '456 Elm St'
     },
     {
-      checkbox: '<input type="checkbox" name="" id="" />',
-      moreIcon: '<i className="fa fa-ellipsis-vertical bg-transparent"/>',
       name: 'Noah Brown',
       phone: '5555555555',
       assignedTo: 'Frank Smith',
@@ -78,8 +66,6 @@ export const leadsList = [
       address: '789 Oak St'
     },
     {
-      checkbox: '<input type="checkbox" name="" id="" />',
-      moreIcon: '<i className="fa fa-ellipsis-vertical bg-transparent"/>',
       name: 'Ella Baker',
       phone: '1234567890',
       assignedTo: 'Grace Jones',
@@ -91,8 +77,6 @@ export const leadsList = [
       address: '123 Main St'
     },
     {
-      checkbox: '<input type="checkbox" name="" id="" />',
-      moreIcon: '<i className="fa fa-ellipsis-vertical bg-transparent"/>',
       name: 'Liam Wilson',
       phone: '9876543210',
       assignedTo: 'Henry Davis',
@@ -104,8 +88,6 @@ export const leadsList = [
       address: '456 Elm St'
     },
     {
-      checkbox: '<input type="checkbox" name="" id="" />',
-      moreIcon: '<i className="fa fa-ellipsis-vertical bg-transparent"/>',
       name: 'Sophia Lee',
       phone: '5555555555',
       assignedTo: 'Isabella Brown',
@@ -117,8 +99,6 @@ export const leadsList = [
       address: '789 Oak St'
     },
     {
-      checkbox: '<input type="checkbox" name="" id="" />',
-      moreIcon: '<i className="fa fa-ellipsis-vertical bg-transparent"/>',
       name: 'William Jones',
       phone: '1234567890',
       assignedTo: 'Jack Smith',
@@ -130,8 +110,6 @@ export const leadsList = [
       address: '123 Main St'
     },
     {
-      checkbox: '<input type="checkbox" name="" id="" />',
-      moreIcon: '<i className="fa fa-ellipsis-vertical bg-transparent"/>',
       name: 'Ava Moore',
       phone: '9876543210',
       assignedTo: 'Lily Johnson',
@@ -143,8 +121,6 @@ export const leadsList = [
       address: '456 Elm St'
     },
     {
-      checkbox: '<input type="checkbox" name="" id="" />',
-      moreIcon: '<i className="fa fa-ellipsis-vertical bg-transparent"/>',
       name: 'Noah Carter',
       phone: '5555555555',
       assignedTo: 'Ethan Brown',
@@ -156,8 +132,6 @@ export const leadsList = [
       address: '789 Oak St'
     },
     {
-      checkbox: '<input type="checkbox" name="" id="" />',
-      moreIcon: '<i className="fa fa-ellipsis-vertical bg-transparent"/>',
       name: 'Ella Davis',
       phone: '1234567890',
       assignedTo: 'Grace Jones',
@@ -169,8 +143,6 @@ export const leadsList = [
       address: '123 Main St'
     },
     {
-      checkbox: '<input type="checkbox" name="" id="" />',
-      moreIcon: '<i className="fa fa-ellipsis-vertical bg-transparent"/>',
       name: 'Liam Wilson',
       phone: '9876543210',
       assignedTo: 'Henry Davis',
@@ -182,8 +154,6 @@ export const leadsList = [
       address: '456 Elm St'
     },
     {
-      checkbox: '<input type="checkbox" name="" id="" />',
-      moreIcon: '<i className="fa fa-ellipsis-vertical bg-transparent"/>',
       name: 'Sophia Lee',
       phone: '5555555555',
       assignedTo: 'Isabella Brown',
@@ -195,8 +165,6 @@ export const leadsList = [
       address: '789 Oak St'
     },
     {
-      checkbox: '<input type="checkbox" name="" id="" />',
-      moreIcon: '<i className="fa fa-ellipsis-vertical bg-transparent"/>',
       name: 'William Jones',
       phone: '1234567890',
       assignedTo: 'Jack Smith',
