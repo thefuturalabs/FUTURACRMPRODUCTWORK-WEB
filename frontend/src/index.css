@@ -1,0 +1,41 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@import url('https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&display=swap');
+
+:root{
+    --primary: #562b80;
+    --primary-hover: #66309c;
+}
+
+body{
+    font-family: "Parkinsans", serif;
+    background: #efefef;
+}
+
+.btn-primary{
+    background-color: var(--primary) !important;
+    color: #ffffff !important;
+    border: solid 1px var(--primary) !important;
+}
+.btn-primary:hover{
+    background-color: var(--primary-hover) !important;
+}
+.btn-outline-primary{
+    border: solid 1px var(--primary) !important;
+    color:  var(--primary) !important;
+}
+.btn-outline-primary:hover{
+    background-color: var(--primary) !important;
+    color: #ffffff !important;
+}
+.text-primary{
+    color: var(--primary) !important;
+}
+.link-primary{
+    color: var(--primary) !important;
+    text-decoration: none;
+}
+.link-primary:hover{
+    color: var(--primary-hover) !important;
+}
