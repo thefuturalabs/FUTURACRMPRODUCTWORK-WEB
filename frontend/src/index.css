@@ -39,3 +39,7 @@ body{
 .link-primary:hover{
     color: var(--primary-hover) !important;
 }
+
+::-webkit-scrollbar{
+    display: none;
+}
